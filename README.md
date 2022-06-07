@@ -8,3 +8,6 @@ run tests:
 
 show posters:
 	python posters.py
+
+
+Make sure you have the `.env` file with the key to the api
