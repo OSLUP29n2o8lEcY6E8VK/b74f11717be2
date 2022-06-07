@@ -5,3 +5,6 @@ start the backend:
 
 run tests:
 	python test.py
+
+show posters:
+	python posters.py
